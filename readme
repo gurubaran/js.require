@@ -1,1 +1,1 @@
-Code sample for setting up a require project along with an Ant task for optimizing the js files. 
+Code sample for setting up a RequireJS + Backbone project along with an Ant task for optimizing the js files using Google Closure. 
