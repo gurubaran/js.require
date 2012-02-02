@@ -1,0 +1,1 @@
+define(["backbone","jquery"],function(a){return a.Model.extend({initialize:function(){alert("Welcome to this world")},add:function(a,b){return a+b}})});
